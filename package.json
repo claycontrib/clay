@@ -1,0 +1,34 @@
+{
+    "name": "clay",
+    "version": "0.0.0",
+    "description": "Text editing when \"good enough\" just won't cut it.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/claycontrib/clay.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/claycontrib/clay/issues"
+    },
+    "homepage": "https://github.com/claycontrib/clay#readme",
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "5.46.1",
+        "eslint": "8.29.0",
+        "eslint-config-airbnb": "19.0.4",
+        "eslint-config-next": "12.2.5",
+        "eslint-config-prettier": "8.5.0",
+        "eslint-plugin-jest": "27.0.1",
+        "eslint-plugin-prettier": "4.2.1",
+        "eslint-plugin-storybook": "0.6.8",
+        "eslint-plugin-unicorn": "45.0.1"
+    }
+}
